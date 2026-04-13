@@ -1,0 +1,28 @@
+FACTURE
+
+Numéro de facture : FAC-2025-6228
+Date de facturation : 2025-08-26
+Date d'échéance : 2025-02-28
+
+VENDEUR
+Capgemini
+12 avenue de la République, Bordeaux, France
+TVA : FR56299664370
+
+ACHETEUR
+Dassault Systèmes
+8 rue du Commerce, Paris 75011, France
+
+PRESTATIONS
+----------------------------------------------------------
+Description                          Qté   PU HT    Total HT
+Développement logiciel personnalisé  1     8538.19  8538.19
+Maintenance mensuelle                2     500.00   1000.00
+Formation utilisateurs               1     800.00    800.00
+----------------------------------------------------------
+Total HT       : 8538.19 €
+TVA 20%        : 1707.64 €
+Total TTC      : 10245.83 €
+
+Mode de paiement : Virement bancaire
+IBAN : FR76 3000 1007 9412 3456 7890 185

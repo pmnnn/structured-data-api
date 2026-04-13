@@ -1,0 +1,30 @@
+DEVIS
+
+Numéro de devis : DEV-2025-269
+Date d'émission : 2025-10-08
+Valable jusqu'au : 2025-08-20
+
+PRESTATAIRE
+Safran
+45 boulevard Haussmann, Marseille, France
+contact@safran.fr — +33 1 21 57 74 30
+
+CLIENT
+Thales
+27 rue Lafayette, Paris 75009, France
+
+DÉTAIL DES PRESTATIONS
+----------------------------------------------------------
+Description                          Qté   PU HT    Total HT
+Audit et conseil stratégique         3     1543.11   4629.33
+Développement application mobile     1     2500.00  2500.00
+Intégration API et tests             1     1200.00  1200.00
+----------------------------------------------------------
+Total HT        : 4629.33 €
+TVA 20%         : 925.87 €
+Total TTC       : 5555.20 €
+
+Délai de réalisation : 6 semaines
+Conditions de paiement : 30% à la commande, solde à la livraison
+
+Signature client : ___________________

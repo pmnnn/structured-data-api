@@ -1,0 +1,35 @@
+CV - Camille Dupont
+
+Email : camille.dupont@email.fr
+Téléphone : 06 33 84 65 29
+Localisation : Nantes, France
+
+PROFIL
+Ingénieur logiciel avec 5 ans d'expérience en développement backend et cloud. Passionné par les systèmes distribués et l'automatisation.
+
+EXPÉRIENCE PROFESSIONNELLE
+
+Airbus — Ingénieur Logiciel Senior  (2022 – présent)  Nantes
+  Développement de microservices en Python et Go. Mise en place de pipelines CI/CD.
+  Technologies : Kubernetes, Docker, AWS, PostgreSQL.
+
+Orange — Développeur Backend  (2019 – 2022)  Paris
+  Conception d'APIs REST, intégration de services tiers, optimisation SQL.
+  Technologies : FastAPI, Django, Redis, MySQL.
+
+FORMATION
+
+École Polytechnique — Master Informatique  (2019)  Palaiseau
+Licence Sciences et Technologies — Université Paris-Saclay  (2017)
+
+COMPÉTENCES TECHNIQUES
+Langages : Python, Go, Java, SQL, Bash
+Cloud/DevOps : AWS, Azure, Docker, Kubernetes, Terraform, CI/CD
+Bases de données : PostgreSQL, MySQL, MongoDB, Redis
+Frameworks : FastAPI, Django, Spring Boot
+
+LANGUES
+Français (natif), Anglais (courant), Espagnol (notions)
+
+CENTRES D'INTÉRÊT
+Escalade, photographie, contributions open-source

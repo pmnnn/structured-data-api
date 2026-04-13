@@ -1,0 +1,33 @@
+_______________________________
+
+PROJET API - VERSION 2 
+_______________________________
+
+
+date: 11/09/2026
+version: 2.1
+
+CV et Devis+Factures séparés dans 2 dashboard différents
+avec chatbot non fonctionnel
+
+Liens vers le projet: 
+
+Dashboard principal : http://localhost:8000/dashboard
+Home : http://localhost:8000/home
+RH : http://localhost:8000/dashboard/hr
+Finance : http://localhost:8000/dashboard/finance
+
+Interface interactive (Swagger UI) : http://localhost:8000/docs
+
+
+_______________________________
+
+CHOSES À AMÉLIORER 
+
+_______________________________
+
+- chat bot pour faire les calculs
+- faire tout les test possibles pour tester le chat bot 
+- tester l'input de fichier
+- ajouter un bouton de téléchargement des fichiers
+- ajouter un pop up en disant que le fichier a bien été enregistré, supprimé ou modifié

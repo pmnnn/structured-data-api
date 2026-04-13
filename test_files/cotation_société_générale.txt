@@ -1,0 +1,30 @@
+DEVIS
+
+Numéro de devis : DEV-2025-793
+Date d'émission : 2025-02-16
+Valable jusqu'au : 2025-05-18
+
+PRESTATAIRE
+Thales
+45 boulevard Haussmann, Marseille, France
+contact@thales.fr — +33 1 10 64 36 56
+
+CLIENT
+Renault
+27 rue Lafayette, Paris 75009, France
+
+DÉTAIL DES PRESTATIONS
+----------------------------------------------------------
+Description                          Qté   PU HT    Total HT
+Audit et conseil stratégique         3     1441.64   4324.92
+Développement application mobile     1     2500.00  2500.00
+Intégration API et tests             1     1200.00  1200.00
+----------------------------------------------------------
+Total HT        : 4324.92 €
+TVA 20%         : 864.98 €
+Total TTC       : 5189.90 €
+
+Délai de réalisation : 6 semaines
+Conditions de paiement : 30% à la commande, solde à la livraison
+
+Signature client : ___________________

@@ -1,0 +1,30 @@
+DEVIS
+
+Numéro de devis : DEV-2025-212
+Date d'émission : 2025-01-06
+Valable jusqu'au : 2025-07-03
+
+PRESTATAIRE
+Capgemini
+45 boulevard Haussmann, Rennes, France
+contact@capgemini.fr — +33 1 64 90 21 28
+
+CLIENT
+Airbus
+27 rue Lafayette, Paris 75009, France
+
+DÉTAIL DES PRESTATIONS
+----------------------------------------------------------
+Description                          Qté   PU HT    Total HT
+Audit et conseil stratégique         3     2332.24   6996.71
+Développement application mobile     1     2500.00  2500.00
+Intégration API et tests             1     1200.00  1200.00
+----------------------------------------------------------
+Total HT        : 6996.71 €
+TVA 20%         : 1399.34 €
+Total TTC       : 8396.05 €
+
+Délai de réalisation : 6 semaines
+Conditions de paiement : 30% à la commande, solde à la livraison
+
+Signature client : ___________________

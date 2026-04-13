@@ -1,0 +1,30 @@
+DEVIS
+
+Numéro de devis : DEV-2025-995
+Date d'émission : 2025-02-27
+Valable jusqu'au : 2025-03-25
+
+PRESTATAIRE
+Safran
+45 boulevard Haussmann, Toulouse, France
+contact@safran.fr — +33 1 66 57 42 50
+
+CLIENT
+Société Générale
+27 rue Lafayette, Paris 75009, France
+
+DÉTAIL DES PRESTATIONS
+----------------------------------------------------------
+Description                          Qté   PU HT    Total HT
+Audit et conseil stratégique         3     2938.87   8816.61
+Développement application mobile     1     2500.00  2500.00
+Intégration API et tests             1     1200.00  1200.00
+----------------------------------------------------------
+Total HT        : 8816.61 €
+TVA 20%         : 1763.32 €
+Total TTC       : 10579.93 €
+
+Délai de réalisation : 6 semaines
+Conditions de paiement : 30% à la commande, solde à la livraison
+
+Signature client : ___________________

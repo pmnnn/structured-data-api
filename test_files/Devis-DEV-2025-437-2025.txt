@@ -1,0 +1,30 @@
+DEVIS
+
+Numéro de devis : DEV-2025-515
+Date d'émission : 2025-04-26
+Valable jusqu'au : 2025-08-09
+
+PRESTATAIRE
+Capgemini
+45 boulevard Haussmann, Paris, France
+contact@capgemini.fr — +33 1 79 61 26 55
+
+CLIENT
+Renault
+27 rue Lafayette, Paris 75009, France
+
+DÉTAIL DES PRESTATIONS
+----------------------------------------------------------
+Description                          Qté   PU HT    Total HT
+Audit et conseil stratégique         3     2194.71   6584.12
+Développement application mobile     1     2500.00  2500.00
+Intégration API et tests             1     1200.00  1200.00
+----------------------------------------------------------
+Total HT        : 6584.12 €
+TVA 20%         : 1316.82 €
+Total TTC       : 7900.94 €
+
+Délai de réalisation : 6 semaines
+Conditions de paiement : 30% à la commande, solde à la livraison
+
+Signature client : ___________________
