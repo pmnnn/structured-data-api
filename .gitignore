@@ -10,6 +10,9 @@ env/
 # Base de données vectorielle (Chroma)
 chroma_db/
 
+# Base de données locale
+*.db
+
 # Historique et données locales
 conversation_history.json
 data/
